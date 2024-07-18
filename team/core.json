@@ -3,17 +3,17 @@
         {
             "name": "Luc van Kampen",
             "title": "Lead Researcher",
-            "avatar": "https://avatarservice.xyz/128/luc.eth.webp"
+            "avatar": "https://raw.githubusercontent.com/v3xlabs/v3x-data/master/team/core/luc.webp"
         },
         {
             "name": "Jakob Helgesson",
             "title": "Validation Overlord",
-            "avatar": "https://avatarservice.xyz/128/helgesson.eth.webp"
+            "avatar": "https://raw.githubusercontent.com/v3xlabs/v3x-data/master/team/core/jakob.webp"
         },
         {
             "name": "Jonte Holmgren",
             "title": "Researcher",
-            "avatar": "https://avatarservice.xyz/128/jontes.eth.webp"
+            "avatar": "https://raw.githubusercontent.com/v3xlabs/v3x-data/master/team/core/jonte.webp"
         }
     ]
 }
